@@ -13,6 +13,7 @@
 		A969A94E25C7A9370065079F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A969A94D25C7A9370065079F /* Assets.xcassets */; };
 		A969A95125C7A9370065079F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A969A95025C7A9370065079F /* Preview Assets.xcassets */; };
 		A969A95425C7A9370065079F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A969A95225C7A9370065079F /* LaunchScreen.storyboard */; };
+		A9A7655625C8FE55005B9D82 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A7655525C8FE55005B9D82 /* SettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A969A95025C7A9370065079F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A969A95325C7A9370065079F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A969A95525C7A9370065079F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9A7655525C8FE55005B9D82 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A969A95225C7A9370065079F /* LaunchScreen.storyboard */,
 				A969A95525C7A9370065079F /* Info.plist */,
 				A969A94F25C7A9370065079F /* Preview Content */,
+				A9A7655525C8FE55005B9D82 /* SettingView.swift */,
 			);
 			path = YoutubeUI;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A969A94825C7A9330065079F /* AppDelegate.swift in Sources */,
+				A9A7655625C8FE55005B9D82 /* SettingView.swift in Sources */,
 				A969A94A25C7A9330065079F /* SceneDelegate.swift in Sources */,
 				A969A94C25C7A9330065079F /* ContentView.swift in Sources */,
 			);
